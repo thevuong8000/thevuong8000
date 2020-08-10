@@ -7,6 +7,8 @@ Also, don't forget to visit my personal projects:
 - [**COVID 19 Tracker**](https://thevuong8000.github.io/covid19-tracker/)
 - [**Meme Generator**](https://thevuong8000.github.io/meme-generator/)(just for fun 😂😂😂)
 
+😍 I would love to hear your feedback and welcome you to contribute to this project. 😍
+
 This is my proudest repository of my: **Competitive Program Algorithm template**, written in C++. 
 
 [![Competitive Programming Algorithm Template](https://github-readme-stats.vercel.app/api/pin/?username=thevuong8000&theme=default&repo=Competitive-Programming)](https://github.com/thevuong8000/Competitive-Programming)
