@@ -5,6 +5,7 @@ I am a Computer Science Major student at UMASS Amherst - University of Massachus
 
 Also, don't forget to visit my personal projects:
 - [**COVID 19 Tracker**](https://thevuong8000.github.io/covid19-tracker/)
+- [**Soundcloud clone**](https://thevuong8000.github.io/my-own-soundcloud/)
 - [**Meme Generator**](https://thevuong8000.github.io/meme-generator/)(just for fun 😂😂😂)
 
 😍 I would love to hear your feedback and welcome you to contribute to this project. 😍
