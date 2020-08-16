@@ -10,7 +10,7 @@ Also, don't forget to visit my personal projects:
 
 😍 I would love to hear your feedback and welcome you to contribute to this project. 😍
 
-This is my proudest repository of my: **Competitive Program Algorithm template**, written in C++. 
+This is my proudest repository: **Competitive Program Algorithm template**, written in C++. 
 
 [![Competitive Programming Algorithm Template](https://github-readme-stats.vercel.app/api/pin/?username=thevuong8000&theme=default&repo=Competitive-Programming)](https://github.com/thevuong8000/Competitive-Programming)
 
