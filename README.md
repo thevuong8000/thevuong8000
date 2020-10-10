@@ -4,6 +4,7 @@
 I am a Computer Science Major student at UMASS Amherst - University of Massachusetts. I have a strong interest with Software Development & Artificial Intelligence. Visit my [porfolio website](https://thevuong8000.github.io/) for more information.
 
 Also, don't forget to visit my personal projects:
+- [**Pathfinding Visualizer**](https://thevuong8000.github.io/pathfinding-visualize/)
 - [**COVID 19 Tracker**](https://thevuong8000.github.io/covid19-tracker/)
 - [**Facebook Clone**](https://fbclonez.firebaseapp.com/)
 - [**Zoom Clone**](https://polar-oasis-25161.herokuapp.com/)
